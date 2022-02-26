@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
 
-## Hi, I'm 현아
-안녕하세요 끝내주는 백엔드 엔지니어가 되고싶은 현아입니다.<br/>
-Hi, I'm hyuna who wanna be a awesome Backend engineer.
+## 👻 Hi, I'm Jay 
+Hi, I'm Jay who wanna be a awesome Backend engineer.<br/>
+Based on Web and Baaaaaaaasical ML.<br/>
+<br/>
+BBA in MIS<br/>
+BE in IT<br/>
 
-
-## Now I'm DOING
+## 🤸‍♂️ Now I'm DOING 
 - Study Web in SSAFY 6th
   - Project : [WISH]() ... ❕Now Done❕
   - Project : ... looking now
@@ -56,10 +58,10 @@ Hi, I'm hyuna who wanna be a awesome Backend engineer.
 </p>
 
 
-## Social
+## 🐾 Social
 [Blog](https://jayheya.tistory.com/)
 
-## Contact Me
+## 💌 Contact Me
 - email : hyuna919@gmail.com
 
  
