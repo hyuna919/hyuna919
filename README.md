@@ -34,7 +34,7 @@ BE in IT<br/>
 
 ## Github
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/hyuna919/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=hyuna919&count_private=true&theme=solarized-light" width=54% />
 </a>
 <a href="https://github.com/hyuna919/github-stats">
