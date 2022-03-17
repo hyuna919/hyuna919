@@ -28,7 +28,7 @@ BE in IT<br/>
   - Project : ... looking now
   - Project : ... after 7 weeks
 
-- Side Project : [Stock Safe]()
+- Side Project : [Stock Safe](https://github.com/hyuna919/StockSafe_Spring)
 - AND ... I'm looking for a job
 
 
