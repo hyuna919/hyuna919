@@ -24,7 +24,9 @@ BE in IT<br/>
 
 ## 🤸‍♂️ Now I'm DOING 
 - Study Web in SSAFY 6th
-  - Project : [WISH](https://github.com/hyuna919/WISH) ... ❕Now Done❕
+  - Project : [WISH](https://github.com/hyuna919/WISH) 
+  - Project : [WISH]()
+  - Project : [모동]()
 
 - Side Project : [Stock Safe](https://github.com/hyuna919/StockSafe_Spring)
 - AND ... I'm looking for a job
