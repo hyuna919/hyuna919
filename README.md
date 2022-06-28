@@ -22,14 +22,9 @@ Based on Web and Baaaaaaaasical ML.<br/>
 BBA in MIS<br/>
 BE in IT<br/>
 
-## 🤸‍♂️ Now I'm DOING 
+## 🤸‍♂️ My New Projects
 - Study Web in SSAFY 6th
   - Project : [WISH](https://github.com/hyuna919/WISH) 
-  - Project : [빅데이터분산]()
-  - Project : [모동]()
-
-- Side Project : [Stock Safe](https://github.com/hyuna919/StockSafe_Spring)
-- AND ... I'm looking for a job
 
 
 ## Github
