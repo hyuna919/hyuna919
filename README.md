@@ -25,6 +25,7 @@ BE in IT<br/>
 ## 🤸‍♂️ My New Projects
 - Study Web in SSAFY 6th
   - Project : [WISH](https://github.com/hyuna919/WISH) 
+  - Project : [모여봐요 우리동네] Wait for check out approve
 
 
 ## Github
