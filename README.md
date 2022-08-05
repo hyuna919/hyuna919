@@ -22,11 +22,13 @@ Based on Web and Baaaaaaaasical ML.<br/>
 BBA in MIS<br/>
 BE in IT<br/>
 
-## 🤸‍♂️ My New Projects
-- Study Web in SSAFY 6th
-  - TIL     : [TIL](https://github.com/hyuna919/TIL)
-  - Project : [WISH](https://github.com/hyuna919/WISH) 
-  - Project : [모여봐요 우리동네] Wait for check out approve
+## 🤸‍♂️ In Progress
+- TIL     : [TIL](https://github.com/hyuna919/TIL)
+- Project : [StockSafe](https://github.com/hyuna919/StockSafe) 
+
+## 🎆 Done
+- Project : [WISH](https://github.com/hyuna919/WISH) 
+- Project : [모여봐요 우리동네] (https://github.com/hyuna919/modong)
 
 
 ## Github
