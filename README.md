@@ -22,11 +22,13 @@ Based on Web and Baaaaaaaasical ML.<br/>
 BBA in MIS<br/>
 BE in IT<br/>
 
-## 🤸‍♂️ In Progress
+## 📝 TIL
 - TIL     : [TIL](https://github.com/hyuna919/TIL)
+
+## 🤸‍♂️ In Progress
 - Project : [StockSafe](https://github.com/hyuna919/StockSafe_Spring)
 
-## 🎆 Done
+## 📁 Done
 - Project : [WISH](https://github.com/hyuna919/WISH) 
 - Project : [모여봐요 우리동네](https://github.com/hyuna919/modong)
 
