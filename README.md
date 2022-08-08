@@ -28,7 +28,7 @@ BE in IT<br/>
 
 ## 🎆 Done
 - Project : [WISH](https://github.com/hyuna919/WISH) 
-- Project : [모여봐요 우리동네] (https://github.com/hyuna919/modong)
+- Project : [모여봐요 우리동네](https://github.com/hyuna919/modong)
 
 
 ## Github
