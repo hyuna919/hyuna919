@@ -29,7 +29,8 @@ BE in IT<br/>
 - Project : [StockSafe](https://github.com/hyuna919/StockSafe_Spring)
 
 ## 📁 Done
-- Project : [WISH](https://github.com/hyuna919/WISH) 
+- Project : [WISH](https://github.com/hyuna919/WISH)
+- Project : 창문
 - Project : [모여봐요 우리동네](https://github.com/hyuna919/modong)
 
 
