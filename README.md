@@ -26,7 +26,7 @@ BE in IT<br/>
 - TIL     : [TIL](https://github.com/hyuna919/TIL)
 
 ## 🤸‍♂️ In Progress
-- Project : [StockSafe](https://github.com/hyuna919/StockSafe_Spring)
+- Project : [StockSafe](https://github.com/hyuna919/StockSafe)
 
 ## 📁 Done
 - Project : [WISH](https://github.com/hyuna919/WISH)
