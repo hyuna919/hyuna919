@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 ## 👻 Hi, I'm Jay 
 Hi, I'm Jay who wanna be a awesome Backend engineer.<br/>
-Based on Web and Baaaaaaaasical ML.<br/>
 <br/>
-BBA in MIS<br/>
-BE in IT<br/>
 
 ## 📝 TIL
 - TIL     : [TIL](https://github.com/hyuna919/TIL)
