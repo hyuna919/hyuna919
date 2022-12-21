@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
 
-## 👻 Hi, I'm Jay 
-Hi, I'm Jay who wanna be a awesome Backend engineer.<br/>
-<br/>
 
 ## 📝 TIL
 - TIL     : [TIL](https://github.com/hyuna919/TIL)
