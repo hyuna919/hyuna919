@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 - TIL     : [TIL](https://github.com/hyuna919/TIL)
 
 ## 🤸‍♂️ In Progress
-- Project : [StockSafe](https://github.com/hyuna919/StockSafe)
+- Project : [담배를 찾아라](https://github.com/hyuna919/StockSafe)
 
 ## 📁 Done
+- Project : [StockSafe](https://github.com/hyuna919/StockSafe)
 - Project : [WISH](https://github.com/hyuna919/WISH)
 - Project : 창문
 - Project : [모여봐요 우리동네](https://github.com/hyuna919/modong)
